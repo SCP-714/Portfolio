@@ -9,7 +9,7 @@ const Home = () => {
             <div className="text-zone">
                 <h1>HelloWorld, <br /> I'm
                 <img src={LogoTitle} alt="developer" />
-                ain
+                ain Obermark
                 <br />
                 Software Engineer
                 </h1>
